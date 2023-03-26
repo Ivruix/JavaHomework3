@@ -1,0 +1,1 @@
+( ap-description  :name "Restaurant" :ap-services (set ( ap-service  :name fipa.mts.mtp.http.std :type fipa.mts.mtp.http.std :addresses (sequence http://DESKTOP-M4S6DHK:7778/acc))))

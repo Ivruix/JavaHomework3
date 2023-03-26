@@ -1,0 +1,154 @@
+{
+  "operation_log": [
+    {
+      "oper_started": "2023-02-28T08:36:35.600",
+      "oper_coocker_id": 16,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 1,
+      "oper_proc": 1,
+      "oper_ended": "2023-02-28T08:45:45.600",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T08:36:38.400",
+      "oper_coocker_id": 16,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 2,
+      "oper_proc": 2,
+      "oper_ended": "2023-02-28T08:54:43.600",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T10:13:23.200",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 3,
+      "oper_proc": 3,
+      "oper_ended": "2023-02-28T10:22:28.400",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T10:13:26",
+      "oper_coocker_id": 16,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 4,
+      "oper_proc": 4,
+      "oper_ended": "2023-02-28T10:31:28.400",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T11:09:48",
+      "oper_coocker_id": 16,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 5,
+      "oper_proc": 5,
+      "oper_ended": "2023-02-28T11:18:52.800",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T11:13:22.400",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 8,
+      "oper_proc": 7,
+      "oper_ended": "2023-02-28T11:27:53.600",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T11:13:18.400",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 6,
+      "oper_proc": 6,
+      "oper_ended": "2023-02-28T11:36:54.800",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T11:14:35.600",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 9,
+      "oper_proc": 9,
+      "oper_ended": "2023-02-28T11:45:55.200",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T11:13:15.200",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 7,
+      "oper_proc": 8,
+      "oper_ended": "2023-02-28T11:54:56",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T14:26:20",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 11,
+      "oper_proc": 12,
+      "oper_ended": "2023-02-28T14:35:24.800",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T14:26:25.600",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 12,
+      "oper_proc": 11,
+      "oper_ended": "2023-02-28T14:44:24.800",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T14:26:22.800",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 10,
+      "oper_proc": 10,
+      "oper_ended": "2023-02-28T14:53:25.200",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T16:57:31.600",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 13,
+      "oper_proc": 13,
+      "oper_ended": "2023-02-28T17:06:34.800",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T17:03:55.200",
+      "oper_coocker_id": 16,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 14,
+      "oper_proc": 14,
+      "oper_ended": "2023-02-28T17:15:35.200",
+      "oper_equip_id": 14
+    },
+    {
+      "oper_started": "2023-02-28T17:03:58",
+      "oper_coocker_id": 15,
+      "oper_card": 518,
+      "oper_active": false,
+      "oper_id": 15,
+      "oper_proc": 15,
+      "oper_ended": "2023-02-28T17:24:36.800",
+      "oper_equip_id": 14
+    }
+  ]
+}

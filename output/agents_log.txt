@@ -1,0 +1,622 @@
+{
+  "agents_log": [
+    {
+      "global_name": "supervisor@Restaurant",
+      "real_time": "2023-03-26T22:41:39.581342200",
+      "type": "created",
+      "class": "org.example.SupervisorAgent"
+    },
+    {
+      "global_name": "storage@Restaurant",
+      "real_time": "2023-03-26T22:41:39.635578300",
+      "type": "created",
+      "class": "org.example.StorageAgent"
+    },
+    {
+      "global_name": "DAZHENG LOOKYAMI@Restaurant",
+      "real_time": "2023-03-26T22:41:39.641581",
+      "type": "created",
+      "class": "org.example.EquipmentAgent"
+    },
+    {
+      "global_name": "LIDER 250@Restaurant",
+      "real_time": "2023-03-26T22:41:39.641581",
+      "type": "created",
+      "class": "org.example.EquipmentAgent"
+    },
+    {
+      "global_name": "Petrov I. V.@Restaurant",
+      "real_time": "2023-03-26T22:41:39.638580900",
+      "type": "created",
+      "class": "org.example.CookAgent"
+    },
+    {
+      "global_name": "Ivanov A. S.@Restaurant",
+      "real_time": "2023-03-26T22:41:39.638580900",
+      "type": "created",
+      "class": "org.example.CookAgent"
+    },
+    {
+      "global_name": "Visitor8@Restaurant",
+      "real_time": "2023-03-26T22:41:39.650584100",
+      "type": "created",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "Visitor7@Restaurant",
+      "real_time": "2023-03-26T22:41:39.649584200",
+      "type": "created",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "Visitor6@Restaurant",
+      "real_time": "2023-03-26T22:41:39.649584200",
+      "type": "created",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "Visitor5@Restaurant",
+      "real_time": "2023-03-26T22:41:39.648583500",
+      "type": "created",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "Visitor4@Restaurant",
+      "real_time": "2023-03-26T22:41:39.647582100",
+      "type": "created",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "Visitor3@Restaurant",
+      "real_time": "2023-03-26T22:41:39.646583800",
+      "type": "created",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "Visitor2@Restaurant",
+      "real_time": "2023-03-26T22:41:39.646583800",
+      "type": "created",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "Visitor1@Restaurant",
+      "real_time": "2023-03-26T22:41:39.645581900",
+      "type": "created",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "process@Restaurant",
+      "real_time": "2023-03-26T22:41:45.092034200",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "process-2@Restaurant",
+      "real_time": "2023-03-26T22:41:45.097185600",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation@Restaurant",
+      "real_time": "2023-03-26T22:41:45.110532100",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-2@Restaurant",
+      "real_time": "2023-03-26T22:41:45.112521400",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process@Restaurant",
+      "real_time": "2023-03-26T22:41:46.477324100",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation@Restaurant",
+      "real_time": "2023-03-26T22:41:46.477324100",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation@Restaurant",
+      "real_time": "2023-03-26T22:41:46.493344",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-2@Restaurant",
+      "real_time": "2023-03-26T22:41:47.830284700",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "Visitor1@Restaurant",
+      "real_time": "2023-03-26T22:41:47.831095700",
+      "type": "terminated",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "process-2@Restaurant",
+      "real_time": "2023-03-26T22:41:47.831095700",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-2@Restaurant",
+      "real_time": "2023-03-26T22:41:47.843086200",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-3@Restaurant",
+      "real_time": "2023-03-26T22:41:59.615799500",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "process-4@Restaurant",
+      "real_time": "2023-03-26T22:41:59.616795100",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-3@Restaurant",
+      "real_time": "2023-03-26T22:41:59.625572100",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-4@Restaurant",
+      "real_time": "2023-03-26T22:41:59.631574900",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-3@Restaurant",
+      "real_time": "2023-03-26T22:42:00.991645700",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-3@Restaurant",
+      "real_time": "2023-03-26T22:42:00.991645700",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-3@Restaurant",
+      "real_time": "2023-03-26T22:42:01.005646500",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-4@Restaurant",
+      "real_time": "2023-03-26T22:42:02.342778600",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "Visitor2@Restaurant",
+      "real_time": "2023-03-26T22:42:02.342778600",
+      "type": "terminated",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "process-4@Restaurant",
+      "real_time": "2023-03-26T22:42:02.342778600",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-4@Restaurant",
+      "real_time": "2023-03-26T22:42:02.354658200",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-5@Restaurant",
+      "real_time": "2023-03-26T22:42:08.082690800",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-5@Restaurant",
+      "real_time": "2023-03-26T22:42:08.091893700",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-6@Restaurant",
+      "real_time": "2023-03-26T22:42:08.589671300",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "process-8@Restaurant",
+      "real_time": "2023-03-26T22:42:08.590648",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "process-7@Restaurant",
+      "real_time": "2023-03-26T22:42:08.589671300",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-7@Restaurant",
+      "real_time": "2023-03-26T22:42:08.604650500",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-6@Restaurant",
+      "real_time": "2023-03-26T22:42:08.598649400",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-8@Restaurant",
+      "real_time": "2023-03-26T22:42:08.611837",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-9@Restaurant",
+      "real_time": "2023-03-26T22:42:08.793528600",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-9@Restaurant",
+      "real_time": "2023-03-26T22:42:08.807532100",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-5@Restaurant",
+      "real_time": "2023-03-26T22:42:09.451563300",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "Visitor3@Restaurant",
+      "real_time": "2023-03-26T22:42:09.451563300",
+      "type": "terminated",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "process-5@Restaurant",
+      "real_time": "2023-03-26T22:42:09.451563300",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-5@Restaurant",
+      "real_time": "2023-03-26T22:42:09.469567400",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-8@Restaurant",
+      "real_time": "2023-03-26T22:42:10.804575100",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-7@Restaurant",
+      "real_time": "2023-03-26T22:42:10.804575100",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-8@Restaurant",
+      "real_time": "2023-03-26T22:42:10.818580900",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-6@Restaurant",
+      "real_time": "2023-03-26T22:42:12.156680600",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-6@Restaurant",
+      "real_time": "2023-03-26T22:42:12.156680600",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-6@Restaurant",
+      "real_time": "2023-03-26T22:42:12.172684600",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-9@Restaurant",
+      "real_time": "2023-03-26T22:42:13.510469600",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "Visitor5@Restaurant",
+      "real_time": "2023-03-26T22:42:13.510469600",
+      "type": "terminated",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "process-9@Restaurant",
+      "real_time": "2023-03-26T22:42:13.510469600",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-9@Restaurant",
+      "real_time": "2023-03-26T22:42:13.523024100",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-7@Restaurant",
+      "real_time": "2023-03-26T22:42:14.861640100",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "Visitor4@Restaurant",
+      "real_time": "2023-03-26T22:42:14.861640100",
+      "type": "terminated",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "process-8@Restaurant",
+      "real_time": "2023-03-26T22:42:14.861640100",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-7@Restaurant",
+      "real_time": "2023-03-26T22:42:14.873631200",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-10@Restaurant",
+      "real_time": "2023-03-26T22:42:37.551297900",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "process-12@Restaurant",
+      "real_time": "2023-03-26T22:42:37.552292900",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "process-11@Restaurant",
+      "real_time": "2023-03-26T22:42:37.552292900",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-11@Restaurant",
+      "real_time": "2023-03-26T22:42:37.567826100",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-10@Restaurant",
+      "real_time": "2023-03-26T22:42:37.560831900",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-12@Restaurant",
+      "real_time": "2023-03-26T22:42:37.573737100",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-11@Restaurant",
+      "real_time": "2023-03-26T22:42:38.933549600",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-12@Restaurant",
+      "real_time": "2023-03-26T22:42:38.933549600",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-11@Restaurant",
+      "real_time": "2023-03-26T22:42:38.946553400",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-12@Restaurant",
+      "real_time": "2023-03-26T22:42:40.284495500",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-11@Restaurant",
+      "real_time": "2023-03-26T22:42:40.284495500",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-12@Restaurant",
+      "real_time": "2023-03-26T22:42:40.296502800",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-10@Restaurant",
+      "real_time": "2023-03-26T22:42:41.635475800",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "Visitor6@Restaurant",
+      "real_time": "2023-03-26T22:42:41.635475800",
+      "type": "terminated",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "process-10@Restaurant",
+      "real_time": "2023-03-26T22:42:41.635475800",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-10@Restaurant",
+      "real_time": "2023-03-26T22:42:41.646461400",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-13@Restaurant",
+      "real_time": "2023-03-26T22:43:00.239803700",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-13@Restaurant",
+      "real_time": "2023-03-26T22:43:00.250871300",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-14@Restaurant",
+      "real_time": "2023-03-26T22:43:01.196782200",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "process-15@Restaurant",
+      "real_time": "2023-03-26T22:43:01.196782200",
+      "type": "created",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-14@Restaurant",
+      "real_time": "2023-03-26T22:43:01.205695700",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-15@Restaurant",
+      "real_time": "2023-03-26T22:43:01.212688700",
+      "type": "created",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-13@Restaurant",
+      "real_time": "2023-03-26T22:43:01.609512",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "Visitor7@Restaurant",
+      "real_time": "2023-03-26T22:43:01.609512",
+      "type": "terminated",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "process-13@Restaurant",
+      "real_time": "2023-03-26T22:43:01.609512",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-13@Restaurant",
+      "real_time": "2023-03-26T22:43:01.621471900",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-14@Restaurant",
+      "real_time": "2023-03-26T22:43:02.960404100",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "process-14@Restaurant",
+      "real_time": "2023-03-26T22:43:02.960404100",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-14@Restaurant",
+      "real_time": "2023-03-26T22:43:02.972403400",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "operation-15@Restaurant",
+      "real_time": "2023-03-26T22:43:04.312692500",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "Visitor8@Restaurant",
+      "real_time": "2023-03-26T22:43:04.312692500",
+      "type": "terminated",
+      "class": "org.example.VisitorAgent"
+    },
+    {
+      "global_name": "process-15@Restaurant",
+      "real_time": "2023-03-26T22:43:04.312692500",
+      "type": "terminated",
+      "class": "org.example.ProcessAgent"
+    },
+    {
+      "global_name": "operation-15@Restaurant",
+      "real_time": "2023-03-26T22:43:04.325699900",
+      "type": "terminated",
+      "class": "org.example.OperationAgent"
+    },
+    {
+      "global_name": "Ivanov A. S.@Restaurant",
+      "real_time": "2023-03-26T22:43:10.984278900",
+      "type": "terminated",
+      "class": "org.example.CookAgent"
+    },
+    {
+      "global_name": "DAZHENG LOOKYAMI@Restaurant",
+      "real_time": "2023-03-26T22:43:10.992290700",
+      "type": "terminated",
+      "class": "org.example.EquipmentAgent"
+    },
+    {
+      "global_name": "LIDER 250@Restaurant",
+      "real_time": "2023-03-26T22:43:11.001088",
+      "type": "terminated",
+      "class": "org.example.EquipmentAgent"
+    },
+    {
+      "global_name": "storage@Restaurant",
+      "real_time": "2023-03-26T22:43:11.009061400",
+      "type": "terminated",
+      "class": "org.example.StorageAgent"
+    },
+    {
+      "global_name": "Petrov I. V.@Restaurant",
+      "real_time": "2023-03-26T22:43:11.018090400",
+      "type": "terminated",
+      "class": "org.example.CookAgent"
+    },
+    {
+      "global_name": "supervisor@Restaurant",
+      "real_time": "2023-03-26T22:43:11.029422200",
+      "type": "terminated",
+      "class": "org.example.SupervisorAgent"
+    }
+  ]
+}
